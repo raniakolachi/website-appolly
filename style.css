@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+*{
+    font-family: "Josefin Sans", sans-serif;
+}
+.header-hero-section{
+    background-image: url(./imegs/Background\ Image.png);
+    height: 100vh;
+    background-size: cover;
+}
+.primary-bg{
+    background-color: #5956E9!important;
+    
+}
+.heading1{
+    color: #5956E9;
+}
+.bg-color{
+    background-color: black !important;
+}
+
+.app-features-section{
+    background-image: url(./imegs/Background\ Image.png);
+    /* height: 800px; */
+    height: auto;
+    background-size: cover;
+    padding: 50px;
+}
+.app-section{
+    background-image: url(./imegs/Rectangle\ 15.png);
+    height: 400px;
+    background-size: cover;
+    padding:30px 20px;
+}
+.vedio-img{
+    right: 12%;
+   
+}
+.app-perfectly{
+    height: 750px;
+}
+.header-hero{
+    height: 500px;
+}
+.app-perent{
+    right: 22%;
+    margin-top:20px ;
+    top: 6420px;
+
+}
+.app-perfect{
+    right: 22%;
+    margin-top: 400px;
+    top: 924%;
+    height: 380px;
+    padding: 18px;
+}
+.hight-handle{
+    width: 700px;
+}
+.my-world{
+    margin-top: 20px;
+}
+.primary-bgc{
+    background-color: #232233!important;
+    padding-top: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 90vh;
+}
+
+button{
+    right: 150px;
+    padding: 5px;
+    top: 120px;
+}
